@@ -312,6 +312,7 @@ footer {
   padding: 1.25rem;
   text-align: center;
   margin: 2rem 0 0;
+  position: var(--bottom-margin);
 }
 /* Footer section ends */
 
